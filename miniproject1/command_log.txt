@@ -1,0 +1,15 @@
+iMan sleep ghgygh gygh
+iMan sleep ijnj kmekm
+echo "hello gyani" | grep "hello" >> file.txt
+echo "hello"
+neonate -n 5
+sleep 10 &
+
+sleep 10
+neonate -n 5
+sleep 10
+iMan execvp
+iMan zic
+echo "123;456"
+reveala
+reveal -al
