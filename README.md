@@ -1,5 +1,3 @@
-
-
 # Custom Shell Implementation
 
 ## Project Overview
@@ -97,4 +95,25 @@ This project is a custom shell implemented in C, designed to simulate basic shel
 - **Ctrl-D**: Exit the shell.
 - **Ctrl-Z**: Stop the foreground process and move it to the background.
 
-#### i dont know why makefile is giving errors, so kindly allow me to use gcc *.c
+### Building and Running
+
+The project includes a Makefile with the following commands:
+
+- **Build the shell**:
+  ```bash
+  make
+  ```
+
+- **Run the shell**:
+  ```bash
+  ./shell
+  ```
+
+- **Clean build files**:
+  ```bash
+  make clean
+  ```
+
+The Makefile handles compilation of all source files with appropriate flags (-Wall -Wextra) and creates an executable named 'shell'. The clean target removes all object files, the executable, and the command log file.
+
+
